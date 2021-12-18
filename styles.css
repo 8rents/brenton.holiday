@@ -1,0 +1,25 @@
+    <html>
+        <head>
+            <title>brenton.holiday</title>
+            <!-- <link rel="stylesheet" href="styles.css">-->
+        </head>
+        <body>
+            <header>
+                <strong><a href="#">brenton.holiday</a></strong>
+                
+                <nav role="navigation">
+                    <ul>
+                        <li></li>
+                    </ul>
+                </nav>
+            </header>
+            
+            <main>
+                <p>site body</p>
+            </main>
+            
+            <footer>
+                &copy2021 brenton.holiday
+            </footer>
+        </body>
+    </html>
